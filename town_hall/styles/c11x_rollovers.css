@@ -63,12 +63,12 @@ section img {
     display: block;
     width: 200px;
     height: 63px;
-    background-image: <img src="../images/sampson_dinosaur.jpg" alt="Scott Sampson with dinosaur">;
+    background-image: url (sampson_dinosaur.jpg);
     text-indent: -999em;
 }
 
 section:hover {
-    background-image: url(images/toucan.jpg);
+    background-image: url (sorkin_desk260.jpg);
 }
 
 /* the styles for the article */

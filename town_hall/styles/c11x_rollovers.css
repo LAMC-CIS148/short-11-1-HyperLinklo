@@ -63,7 +63,7 @@ a{
     display: block;
     width: 260px;
     height: 260px;
-    background-image: url (sampson_dinosaur.jpg);
+    background-repeat: url (sampson_dinosaur.jpg);
     text-indent: -999em;
 }
 

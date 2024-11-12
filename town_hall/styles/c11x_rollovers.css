@@ -61,8 +61,8 @@ section p {
 }
 section img {
     display: block;
-    width: 200px;
-    height: 63px;
+    width: 500px;
+    height: 500px;
     background-image: url (sampson_dinosaur.jpg);
     text-indent: -999em;
 }

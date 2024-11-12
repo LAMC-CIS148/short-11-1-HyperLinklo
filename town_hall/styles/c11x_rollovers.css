@@ -59,7 +59,7 @@ section h1 {
 section p {
 	padding-bottom: .5em;
 }
-section img {
+a{
     display: block;
     width: 260px;
     height: 260px;
@@ -67,7 +67,7 @@ section img {
     text-indent: -999em;
 }
 
-section:hover {
+a:hover {
     background-image: url (sorkin_desk260.jpg);
 }
 

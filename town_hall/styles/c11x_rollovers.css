@@ -59,6 +59,17 @@ section h1 {
 section p {
 	padding-bottom: .5em;
 }
+section img {
+    display: block;
+    width: 200px;
+    height: 63px;
+    background-image: <img src="../images/sampson_dinosaur.jpg" alt="Scott Sampson with dinosaur">;
+    text-indent: -999em;
+}
+
+section:hover {
+    background-image: url(images/toucan.jpg);
+}
 
 /* the styles for the article */
 article {
